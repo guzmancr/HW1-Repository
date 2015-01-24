@@ -1,0 +1,66 @@
+Problem 1
+
+part (a) Which of the following are acceptable behaviors in solving homeworks/projects?
+
+acceptable behavior  
+
+1. Looking up information relevant to the course online. (only to lok up concepts and syntax not code)
+
+3. talking to my classmates about the problems
+
+5. Asking the course staff for help
+
+6. Sitting next to my classmate and coding together as a team or with significant conversation about approach.(be careful as there is a chance that working together could make unintentional cheating.)
+
+7. Sharing my code with a classmate, even if he/she just wants to read over it and learn from it.(this is ok if you are trying to explain a concept.( spend an hour doing something else before working on you own code)
+
+
+Part (B)
+
+    emacs
+    Eclipse
+    vim
+    Microsoft Visual Studio
+    Sublime text 
+			are all good text editors
+
+Part (C)
+What is the late submission policy?
+
+    Each student can use up to 2 of their 4 grace days on a single assignment.
+  
+
+Problem 2
+
+Part (a)
+
+Which of the following git user interfaces are accepted and supported in this course?
+
+  
+    GitHub Desktop Client
+
+
+Part(b)
+
+Provide the appropriate git command to perform the following operations:
+
+    Stage an untracked file to be committed. The file is called 'hw1q2b.cpp'.
+
+git add hw1q2b.cpp
+git commit -m "My hw1q2b"
+
+    Display the details of the last three commits in the repository.
+
+git log
+
+
+Part(c)
+Let's say you staged three files to be committed. Then, you ran the following command:
+
+git commit
+
+What will git do?
+
+git will make the three files apart of the all three of the files apart of the repository history and later prompt for a meeges to attach to each of the files.
+
+
